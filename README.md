@@ -1,4 +1,4 @@
-# SpaceMissionPathfinder
+# SpaceMission
 
 
 A pathfinding challenge implemented in C#, featuring:
