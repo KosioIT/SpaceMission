@@ -55,7 +55,7 @@ Services/
 Views/
 Tests/
 Program.cs
-SpaceMissionPathfinder.csproj
+SpaceMission.csproj
 README.md
 
 ------------------------------------------------------------
@@ -72,4 +72,5 @@ TECHNOLOGIES
 
 CONTACT
 
-Konstantin
+Konstantin Andonov
+kosetoit@gmail.com
