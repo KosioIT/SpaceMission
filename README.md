@@ -50,13 +50,13 @@ dotnet run
 
 PROJECT STRUCTURE
 
-Models/
-Services/
-Views/
-Tests/
-Program.cs
-SpaceMission.csproj
-README.md
+- Models/
+- Services/
+- Views/
+- Tests/
+- Program.cs
+- SpaceMission.csproj
+- README.md
 
 ------------------------------------------------------------
 
